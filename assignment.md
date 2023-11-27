@@ -71,7 +71,7 @@ This is a cleaned data set from FIFA players in FIFA 2018 with more than 17k pla
 Follow the steps below:
 
 1. Connect your data
-2. Detect different data types in your data - Which important data type is missing? 
+2. Detect different data types in your data - Which important data type is missing? Nationality - String (Geographic Role - Country)
 3. Build at least 5 different visualizations to learn more about the dataset. 
 4. This table has 70 different features. Can you detect the most important features ? Why do you think these are important? Could you define a question for yourself? Try to learn more about these categories and find appropriate numerical features to study different trends in them. 
   - For example ,  the following features could be important for your analysis :
